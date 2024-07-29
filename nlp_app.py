@@ -9,7 +9,7 @@ from nltk.stem.wordnet import WordNetLemmatizer
 import re
 
 st.title("NLP App")
-text = st.text_input("Enter word to be lamatized")
+text = st.text_area("Enter word to be lamatized")
 click = st.button("Analyze")
 
 
