@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run_nlp.py
+web: sh setup.sh && streamlit run_nlp_app.py
